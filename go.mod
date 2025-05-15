@@ -67,9 +67,9 @@ require (
 	github.com/mattn/go-sqlite3 v1.14.22
 )
 
-require github.com/tenderly/live-tracer-arbitrum v1.0.0 // indirect
 require github.com/tenderly/blockchain-proto v1.0.0 // indirect
 require github.com/tenderly/live-tracing-store v1.0.0 // indirect
+require github.com/tenderly/live-tracer-arbitrum v1.0.1 // indirect
 
 require (
 	cloud.google.com/go v0.115.0 // indirect
