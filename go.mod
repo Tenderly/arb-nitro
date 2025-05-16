@@ -58,7 +58,7 @@ require (
 
 require (
 	github.com/linxGnu/grocksdb v1.9.8
-
+	github.com/tenderly/live-tracer-arbitrum/v2 v2.0.0
 )
 
 require (
@@ -66,10 +66,6 @@ require (
 	github.com/jmoiron/sqlx v1.4.0
 	github.com/mattn/go-sqlite3 v1.14.22
 )
-
-require github.com/tenderly/blockchain-proto v1.0.0 // indirect
-require github.com/tenderly/live-tracing-store v1.0.0 // indirect
-require github.com/tenderly/live-tracer-arbitrum v1.0.0 // indirect
 
 require (
 	cloud.google.com/go v0.115.0 // indirect
