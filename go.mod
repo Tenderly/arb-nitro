@@ -81,9 +81,9 @@ require (
 	github.com/googleapis/enterprise-certificate-proxy v0.3.2 // indirect
 	github.com/googleapis/gax-go/v2 v2.12.5 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	github.com/tenderly/blockchain-proto v0.0.0-20250228135058-ddb8142d9cfa // indirect
-	github.com/tenderly/live-tracer-arbitrum v0.0.0-20250411110758-7a240cb5d2c4 // indirect
-	github.com/tenderly/live-tracing-store v0.0.0-20250331095025-d8ebd7991b2d // indirect
+	github.com/tenderly/blockchain-proto v1.0.0 // indirect
+	github.com/tenderly/live-tracer-arbitrum v1.3.0 // indirect
+	github.com/tenderly/live-tracing-store v1.0.0 // indirect
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.49.0 // indirect
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.49.0 // indirect
 	go.opentelemetry.io/otel v1.24.0 // indirect

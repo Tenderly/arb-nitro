@@ -512,6 +512,8 @@ github.com/tenderly/blockchain-proto v0.0.0-20250221134230-cde60242f11e h1:e7b4m
 github.com/tenderly/blockchain-proto v0.0.0-20250221134230-cde60242f11e/go.mod h1:yp/IkDpq4o6eeWNYPIsSwRUEqNGNV8NIZG1Eot2fZ3s=
 github.com/tenderly/blockchain-proto v0.0.0-20250228135058-ddb8142d9cfa h1:SEoCfopzIk9/zVOARbyXkIXC6ujM7JF7jRifcMajF/4=
 github.com/tenderly/blockchain-proto v0.0.0-20250228135058-ddb8142d9cfa/go.mod h1:yp/IkDpq4o6eeWNYPIsSwRUEqNGNV8NIZG1Eot2fZ3s=
+github.com/tenderly/blockchain-proto v1.0.0 h1:f5V77CkgG9/oOWfK+fCUjCsnvWSm1Sr8D5LAA2XfbMs=
+github.com/tenderly/blockchain-proto v1.0.0/go.mod h1:yp/IkDpq4o6eeWNYPIsSwRUEqNGNV8NIZG1Eot2fZ3s=
 github.com/tenderly/live-tracer-arbitrum v0.0.0-20250128221801-ce50a21d24d7 h1:fhI/pRKguP139M0MmE4DDqzr7fLinLwqt2dRII2fnv8=
 github.com/tenderly/live-tracer-arbitrum v0.0.0-20250128221801-ce50a21d24d7/go.mod h1:YrArnZ7cR3FZKQV7f2hgjB6BIuOAcGjxAKvXpBBNKLM=
 github.com/tenderly/live-tracer-arbitrum v0.0.0-20250205191008-5cd344e5f6d3 h1:Eo6xjcznaLXIkQdi85sfV+cOnY3poZ9EyQLcqfRqxS8=
@@ -568,6 +570,8 @@ github.com/tenderly/live-tracer-arbitrum v0.0.0-20250411110300-e9a5aae95806 h1:Z
 github.com/tenderly/live-tracer-arbitrum v0.0.0-20250411110300-e9a5aae95806/go.mod h1:rLI/X3x+56bCBQJQ16QyY3yJyX9qvFSb7FC8UzBbcX4=
 github.com/tenderly/live-tracer-arbitrum v0.0.0-20250411110758-7a240cb5d2c4 h1:SbZ+M6n7dimkJknDi/SXaPQ/UmLLyQi3psyi+7xT32k=
 github.com/tenderly/live-tracer-arbitrum v0.0.0-20250411110758-7a240cb5d2c4/go.mod h1:S7ECC5uwiLmYVaHAM79QRRzTVfOVK/DnnZ4+HIuH7rs=
+github.com/tenderly/live-tracer-arbitrum v1.3.0 h1:q6Ia4QyZkdWy3f8ZW6p2NPI8k0cC1SMCQafYb0CP/Oc=
+github.com/tenderly/live-tracer-arbitrum v1.3.0/go.mod h1:LeVTjfzMpulFWttzzJKa2iLxHbCcCzlyLxj8/jbQlQ0=
 github.com/tenderly/live-tracing-store v0.0.0-20250204174531-2aa7325a7f44 h1:5cdSxQUoHilOibCe+QfOb5XgHHYeehBnAKpJkJndBYM=
 github.com/tenderly/live-tracing-store v0.0.0-20250204174531-2aa7325a7f44/go.mod h1:araL6nUIWyx2fT+kzwRi4OQzvirklIK0PL3fhrtSKJk=
 github.com/tenderly/live-tracing-store v0.0.0-20250221150020-c1952dbc255f h1:VKmtMCJCu5CmmErbkcWNd5OxwFDv5McZMIua+kRlf0s=
@@ -576,6 +580,8 @@ github.com/tenderly/live-tracing-store v0.0.0-20250325123316-a225a36bcc3b h1:VQY
 github.com/tenderly/live-tracing-store v0.0.0-20250325123316-a225a36bcc3b/go.mod h1:n72KhoI4y8aEZPZtFXG3TMGgMbWa9k8n/h8wMtIV8bQ=
 github.com/tenderly/live-tracing-store v0.0.0-20250331095025-d8ebd7991b2d h1:Osv7kTtfTeLTeElYBwDYl2I1EUquRcXJN1DGRtSZMjQ=
 github.com/tenderly/live-tracing-store v0.0.0-20250331095025-d8ebd7991b2d/go.mod h1:n72KhoI4y8aEZPZtFXG3TMGgMbWa9k8n/h8wMtIV8bQ=
+github.com/tenderly/live-tracing-store v1.0.0 h1:lbEt4pym7fVN+y9Ogh/UKWXjgkBGOdisoqIMlcWRQDE=
+github.com/tenderly/live-tracing-store v1.0.0/go.mod h1:gmOX15Os5a8vhHRd3VLLBr1KfA/toWAYfqssPDUK5xU=
 github.com/tklauser/go-sysconf v0.3.12 h1:0QaGUFOdQaIVdPgfITYzaTegZvdCjmYO52cSFAEVmqU=
 github.com/tklauser/go-sysconf v0.3.12/go.mod h1:Ho14jnntGE1fpdOqQEEaiKRpvIavV0hSfmBq8nJbHYI=
 github.com/tklauser/numcpus v0.6.1 h1:ng9scYS7az0Bk4OZLvrNXNSAO2Pxr1XXRAPyjhIx+Fk=
