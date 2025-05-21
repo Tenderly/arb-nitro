@@ -82,7 +82,7 @@ require (
 	github.com/googleapis/gax-go/v2 v2.12.5 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/tenderly/blockchain-proto v1.0.0 // indirect
-	github.com/tenderly/live-tracer-arbitrum v1.3.2 // indirect
+	github.com/tenderly/live-tracer-arbitrum v1.3.3 // indirect
 	github.com/tenderly/live-tracing-store v1.0.0 // indirect
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.49.0 // indirect
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.49.0 // indirect
